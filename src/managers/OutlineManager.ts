@@ -32,18 +32,6 @@ export class OutlineManager implements IOutlineManager {
 
       this._postProcess.onApply = (effect) => {
         effect.setTexture("depthTexture", this._depthTexture);
-        effect.setVector3(
-          "outlineColor",
-          new Vector3(this._color.r, this._color.g, this._color.b)
-        );
-        effect.setFloat("outlineWidth", this._width);
-        effect.setVector2(
-          "resolution",
-          new Vector2(
-            this._depthTexture.getRenderWidth(),
-            this._depthTexture.getRenderHeight()
-          )
-        );
       };
 
       this._postProcess.onBeforeRender = (effect) => {
@@ -52,6 +40,14 @@ export class OutlineManager implements IOutlineManager {
           new Vector3(this._color.r, this._color.g, this._color.b)
         );
         effect.setFloat("outlineWidth", this._width);
+
+        effect.setVector2(
+          "resolution",
+          new Vector2(
+            this._depthTexture.getRenderWidth(),
+            this._depthTexture.getRenderHeight()
+          )
+        );
       };
 
       this._postProcess.samples = 4;

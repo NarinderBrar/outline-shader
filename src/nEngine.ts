@@ -71,6 +71,10 @@ export class nEngine {
     );
 
     this._scene.onBeforeRenderObservable.add(this._onBeforeRender);
+
+    window.addEventListener("resize", function () {
+      engine.resize();
+    });
   }
 
   private _createGround = () => {
