@@ -1,0 +1,144 @@
+{
+  "models": [
+    {
+      "id": "0",
+      "type": "building",
+      "name": "Building_Sky_big",
+      "image": "localAssets/thumbnails/Building_Sky_big_color01_Image.png",
+      "model": "localAssets/models/Building_Sky_big_color01.glb"
+    },
+    {
+      "id": "1",
+      "type": "building",
+      "name": "Building_Auto_Service",
+      "image": "localAssets/thumbnails/Building_Auto_Service_Image.png",
+      "model": "localAssets/models/Building_Auto_Service.glb"
+    },
+    {
+      "id": "2",
+      "type": "building",
+      "name": "Building_Bakery",
+      "image": "localAssets/thumbnails/Building_Bakery_Image.png",
+      "model": "localAssets/models/Building_Bakery.glb"
+    },
+    {
+      "id": "3",
+      "type": "building",
+      "name": "Builiding Bar",
+      "image": "localAssets/thumbnails/Building_Bar_Image.png",
+      "model": "localAssets/models/Building_Bar.glb"
+    },
+    {
+      "id": "4",
+      "type": "building",
+      "name": "Building_Books_Shop",
+      "image": "localAssets/thumbnails/Building_Books_Shop_Image.png",
+      "model": "localAssets/models/Building_Books_Shop.glb"
+    },
+    {
+      "id": "5",
+      "type": "building",
+      "name": "Building_Chicken_Shop",
+      "image": "localAssets/thumbnails/Building_Chicken_Shop_Image.png",
+      "model": "localAssets/models/Building_Chicken_Shop.glb"
+    },
+    {
+      "id": "6",
+      "type": "building",
+      "name": "Building_Clothing",
+      "image": "localAssets/thumbnails/Building_Clothing_Image.png",
+      "model": "localAssets/models/Building_Clothing.glb"
+    },
+    {
+      "id": "7",
+      "type": "building",
+      "name": "Building_Coffee_Shop",
+      "image": "localAssets/thumbnails/Building_Coffee_Shop_Image.png",
+      "model": "localAssets/models/Building_Coffee_Shop.glb"
+    },
+    {
+      "id": "8",
+      "type": "natures",
+      "name": "Natures_Big_Tree",
+      "image": "localAssets/thumbnails/Natures_Big_Tree_Image.png",
+      "model": "localAssets/models/Natures_Big_Tree.glb"
+    },
+    {
+      "id": "9",
+      "type": "natures",
+      "name": "Natures_Bush_01",
+      "image": "localAssets/thumbnails/Natures_Bush_01_Image.png",
+      "model": "localAssets/models/Natures_Bush_01.glb"
+    },
+    {
+      "id": "10",
+      "type": "natures",
+      "name": "Natures_Cube_Tree",
+      "image": "localAssets/thumbnails/Natures_Cube_Tree_Image.png",
+      "model": "localAssets/models/Natures_Cube_Tree.glb"
+    },
+    {
+      "id": "11",
+      "type": "natures",
+      "name": "Natures_Grass_Bar",
+      "image": "localAssets/thumbnails/Natures_Grass_Bar_Image.png",
+      "model": "localAssets/models/Natures_Grass_Bar.glb"
+    },
+    {
+      "id": "12",
+      "type": "natures",
+      "name": "Natures_Pot_Bush_big",
+      "image": "localAssets/thumbnails/Natures_Pot_Bush_big_Image.png",
+      "model": "localAssets/models/Natures_Pot_Bush_big.glb"
+    },
+    {
+      "id": "13",
+      "type": "natures",
+      "name": "Natures_Rock_Big",
+      "image": "localAssets/thumbnails/Natures_Rock_Big_Image.png",
+      "model": "localAssets/models/Natures_Rock_Big.glb"
+    },
+    {
+      "id": "14",
+      "type": "props",
+      "name": "Props_Bench_1",
+      "image": "localAssets/thumbnails/Props_Bench_1_Image.png",
+      "model": "localAssets/models/Props_Bench_1.glb"
+    },
+    {
+      "id": "15",
+      "type": "props",
+      "name": "Props_Coffee_shop_chair",
+      "image": "localAssets/thumbnails/Props_Coffee_shop_chair_Image.png",
+      "model": "localAssets/models/Props_Coffee_shop_chair.glb"
+    },
+    {
+      "id": "16",
+      "type": "props",
+      "name": "Props_Dustbin",
+      "image": "localAssets/thumbnails/Props_Dustbin_Image.png",
+      "model": "localAssets/models/Props_Dustbin.glb"
+    },
+    {
+      "id": "17",
+      "type": "props",
+      "name": "Props_Fence",
+      "image": "localAssets/thumbnails/Props_Fence_Image.png",
+      "model": "localAssets/models/Props_Fence.glb"
+    },
+    {
+      "id": "18",
+      "type": "props",
+      "name": "Props_Roof_prop_air",
+      "image": "localAssets/thumbnails/Props_Roof_prop_air_Image.png",
+      "model": "localAssets/models/Props_Roof_prop_air.glb"
+    },
+    {
+      "id": "19",
+      "type": "props",
+      "name": "Props_Traffic_cone",
+      "image": "localAssets/thumbnails/Props_Traffic_cone_Image.png",
+      "model": "localAssets/models/Props_Traffic_cone.glb"
+    }
+  ]
+}
