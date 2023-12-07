@@ -11,7 +11,6 @@ export class DataLoader {
 
   constructor() {}
 
-  //load data set from json
   public loadJSON = async (jsonUrl: string): Promise<void> => {
     try {
       const response = await fetch(jsonUrl);
@@ -22,7 +21,6 @@ export class DataLoader {
     }
   };
 
-  //get all assets
   public getAllAssets = (): Asset[] => {
     return this._models;
   };
